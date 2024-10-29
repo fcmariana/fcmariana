@@ -24,10 +24,6 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=andr3kaua&theme=monokai-metallian&hide_border=true&show_icons=true)
-</div>
-<br>
-<br>
 
 
 <picture align="center">
