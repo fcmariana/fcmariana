@@ -8,8 +8,8 @@
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
-![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=mariana951&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=fcmariana&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcmariana_progress=true&theme=dark)
 
 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
  
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcmariana/fcmariana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcmariana/fcmariana/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fcmariana/fcmariana/output/github-contribution-grid-snake.svg">
 </picture>
