@@ -7,7 +7,7 @@
 
 
 
-![Ashmit Mehta](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+![Ashmit Mehta](https://www.designi.com.br/images/preview/10913902.jpg)
 <br><br><br>
 
 
