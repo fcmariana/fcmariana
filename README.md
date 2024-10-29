@@ -21,9 +21,18 @@
 
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcmariana/fcmariana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcmariana/fcmariana/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fcmariana/fcmariana/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://github-profile-trophy.vercel.app/?username=fcmariana&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=andr3kaua&theme=monokai-metallian&hide_border=true&show_icons=true)
+</div>
+<br>
+<br>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
