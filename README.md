@@ -7,15 +7,6 @@
 
 
 
-![Ashmit Mehta](https://www.designi.com.br/images/preview/10913902.jpg)
-<br><br><br>
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src=https://www.designi.com.br/images/preview/10913902.jpg
-  </a>
-</div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
